@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Soal4 {
+public class Tugas4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukkan angka (1-7): ");
