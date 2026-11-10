@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// SOAL 4 — Angka 1-7 menjadi Nama Hari (switch)
 public class Soal4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
