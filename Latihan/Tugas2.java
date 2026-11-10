@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-// SOAL 2 — Positif, Negatif, atau Nol
 public class Tugas2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
