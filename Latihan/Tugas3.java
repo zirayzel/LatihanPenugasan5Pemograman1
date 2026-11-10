@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Soal3 {
+public class Tugas3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Masukkan nilai (0-100): ");
